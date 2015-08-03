@@ -5,9 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version --xlskdj
 
-* System dependencies
+*
 
 * Configuration
 
